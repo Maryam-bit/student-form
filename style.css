@@ -1,0 +1,48 @@
+
+div{
+    font-family:  Calibri,;
+    color: white;
+    font-size: 11pt;
+    font-style: normal;
+    font-weight: bold;
+    background: linear-gradient(slateblue , slateblue , purple );
+    margin: auto;
+    width: 62%;
+    border: 3px solid slateblue;
+    border-radius: 35px;
+    padding-inline-start: 30px;
+    padding-block-end: 30px;
+    }
+    
+    h1{
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-weight: bold;
+        color: 6600CC;
+        font-style: normal;
+        margin-top: 2px;
+        font-size: 35px;
+        font-family: 'Lato', sans-serif;
+    }
+    table.inner{
+        border: 0
+    }
+    .btn{
+        height:30px;
+        width: 68px;
+        font-size: 16px;
+        font-weight: bold;
+        border: 1px solid;
+        border-radius: 3px;
+    }
+    
+    .Gohome{
+        border: 2px solid grey;
+        background-color: grey;
+        color: white;
+        font-size: 24px;
+        border-radius: 16px;
+        text-decoration: none;
+        padding: 3px 6px;
+    }
